@@ -2,6 +2,12 @@
 
 > **Turn messy syllabi, timetables, and assignment sheets into structured, actionable deadlines and automated alerts using Gemini Vision.**
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://deadlinesnap.streamlit.app/)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+🔗 **Live Deployed App**: [https://deadlinesnap.streamlit.app/](https://deadlinesnap.streamlit.app/)
+
 DeadlineSnap extracts assignments, exams, quizzes, project milestones, and class schedules directly from photos or scanned documents using Google Gemini Vision, presents them in an interactive, editable table, and dispatches formatted deadline digests via **Email**, **Telegram**, or **WhatsApp**.
 
 ---
